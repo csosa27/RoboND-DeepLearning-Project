@@ -55,8 +55,7 @@ This 3 encoder-decoder architecture was selected through testing during the Sema
 
 
 ### 3. Neural Network Paramaters  
-In the code section below, the chosen network parameters can be seen. Some of these parameters were chosen based on the data that the model would use to train, while others were intuitively selected and through iterations. As seen in Table 1, the hyperparameters were modified by iterations until the final score of 40.6% was achieved
-
+In the code section below, the chosen network parameters can be seen. Some of these parameters were chosen based on the data that the model would use to train, while others were intuitively selected and through iterations. As seen in Table 1, the hyperparameters were modified by iterations until the final score of 40.6% was achieved. The final weights are in the data/weights path and the 'model_weights_40Plus' and 'config_model_weights_40Plus' files are the ones that provide a 40.6% IoU final score.
 
 	learning_rate = 0.001
 	batch_size = 128
