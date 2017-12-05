@@ -3,9 +3,9 @@
 
 [//]: # (Image References)
 
-[image1]: ./misc_images/FCN_Model.JPG
-[image2]: ./misc_images/FollowMe.JPG
-[image3]: ./misc_images/Drone_Patrol_hero.JPG
+[image1]: ./docs/misc/FCN_Model.JPG
+[image2]: ./docs/misc/FollowMe.JPG
+[image3]: ./docs/misc/Drone_Patrol_hero.JPG
 
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/1155/view) Points
